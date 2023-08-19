@@ -13,8 +13,8 @@ export const BodyPart = ({ item, setBodyPart, bodyPart }) => {
                 borderTop: bodyPart === item ? '4px solid #ff2625' : '',
                 backgroundColor: '#fff',
                 borderBottomLeftRadius: '20px',
-                width: '280px',
-                height: '290px',
+                width: '270px',
+                height: '280px',
                 cursor: 'pointer',
                 gap: '47px'
             }}>
